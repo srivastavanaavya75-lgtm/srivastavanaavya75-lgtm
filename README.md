@@ -1,11 +1,23 @@
 
 <img width="1983" height="793" alt="ChatGPT Image Jun 15, 2026, 12_12_41 AM" src="https://github.com/user-attachments/assets/383e1adb-30fb-4f58-a2a2-357a84da8733" />
 
-# 💜 Hi, I'm Naavya Srivastava
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Naavya Banner" />
+</p>
 
-### AI & Web Developer • CSE-DS Student
+<h1 align="center">💜 Hi, I'm Naavya Srivastava</h1>
 
-Building intelligent solutions with **Python, AI, Data Science and Modern Web Technologies**.
+<h3 align="center">
+AI & Web Developer • CSE-DS Student
+</h3>
+
+<p align="center">
+Building intelligent solutions with Python, AI, Data Science and Modern Web Technologies.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=srivastavanaavya75-lgtm&color=blueviolet&style=flat-square" />
+</p>
 
 ---
 
@@ -15,8 +27,8 @@ Building intelligent solutions with **Python, AI, Data Science and Modern Web Te
 * 🤖 Exploring Artificial Intelligence & Machine Learning
 * 🌐 Building modern web applications and interactive user experiences
 * 🚀 Creating projects that solve real-world problems
-* 📚 Constantly learning and improving my development skills
-* 🤝 Open to internships, collaborations and new opportunities
+* 📚 Continuously learning and improving my development skills
+* 🤝 Open to internships and collaborations
 
 ---
 
@@ -26,8 +38,8 @@ Building intelligent solutions with **Python, AI, Data Science and Modern Web Te
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### Tools & Technologies
 
@@ -40,56 +52,59 @@ Building intelligent solutions with **Python, AI, Data Science and Modern Web Te
 
 # 🚀 Featured Projects
 
-## 🌍 Luxora Travel
+### 🌍 Luxora Travel
 
-A luxury travel platform featuring immersive design, modern UI and destination exploration.
+Luxury travel platform featuring immersive UI, destination discovery and modern design.
 
-🔗 Live Demo:
+🔗 Live Demo
 https://luxora-travel.vercel.app/
 
 ---
 
-## 📚 AKTU Survival Hub
+### 📚 AKTU Survival Hub
 
-A student resource platform helping learners access notes, guidance and study resources.
+Student-focused resource platform helping learners access notes, guidance and study materials.
 
-🔗 Live Demo:
+🔗 Live Demo
 https://srivastavanaavya75-lgtm.github.io/aktu-survival-hub/
 
 ---
 
-## 🤖 AI Chatbot
+### 🤖 AI Chatbot
 
-Desktop AI assistant powered by Gemini API featuring chat history and export functionality.
-
----
-
-## 📄 AI Resume Analyzer
-
-AI-powered resume evaluation system that provides insights and improvement suggestions.
+Gemini-powered desktop assistant with conversation history and export functionality.
 
 ---
 
-## ✍️ Air Writing System
+### 📄 AI Resume Analyzer
 
-Real-time air writing project using computer vision and gesture recognition.
+AI-powered resume analysis and feedback system.
+
+---
+
+### ✍️ Air Writing System
+
+Real-time air writing application using computer vision and gesture recognition.
 
 ---
 
 # 📊 GitHub Stats
 
-![Naavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastavanaavya75-lgtm\&show_icons=true\&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=srivastavanaavya75-lgtm&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanaavya75-lgtm&layout=compact&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=srivastavanaavya75-lgtm\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanaavya75-lgtm\&layout=compact\&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=srivastavanaavya75-lgtm&theme=tokyonight" />
+</p>
 
 ---
 
 # 🌟 Current Focus
 
-* 🧠 Artificial Intelligence
-* 📊 Data Science
+* 🧠 Artificial Intelligence & Machine Learning
+* 📊 Data Science & Analytics
 * 🌐 Frontend Development
 * 🤖 Automation Projects
 * 🚀 Building impactful portfolio projects
@@ -98,17 +113,18 @@ Real-time air writing project using computer vision and gesture recognition.
 
 # 🤝 Let's Connect
 
-📧 Email: [srivastavanaavya75@gmail.com](mailto:srivastavanaavya75@gmail.com)
+📧 **Email**
+[srivastavanaavya75@gmail.com](mailto:srivastavanaavya75@gmail.com)
 
-💼 LinkedIn:
+💼 **LinkedIn**
 https://www.linkedin.com/in/naavya-srivastava-661bb03ba
-
-🌐 Portfolio:
-(Add your portfolio link here)
 
 ---
 
-### 💜 "Build • Learn • Innovate"
+<p align="center">
+💜 <b>Build • Learn • Innovate</b>
+</p>
 
-Thanks for visiting my profile!
-
+<p align="center">
+Turning ideas into impactful digital experiences.
+</p>
