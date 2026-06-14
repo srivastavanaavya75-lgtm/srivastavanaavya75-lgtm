@@ -1,9 +1,5 @@
 
-<img width="1983" height="793" alt="ChatGPT Image Jun 15, 2026, 12_12_41 AM" src="https://github.com/user-attachments/assets/383e1adb-30fb-4f58-a2a2-357a84da8733" />
-
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Naavya Banner" />
-</p>
+<img width="1983" height="793" alt="ChatGPT Image Jun 15, 2026, 12_12_41 AM" src="https://github.com/user-attachments/assets/383e1adb-30fb-4f58-a2a2-357a84da8733" 
 
 <h1 align="center">💜 Hi, I'm Naavya Srivastava</h1>
 
