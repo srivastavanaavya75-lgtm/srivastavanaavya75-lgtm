@@ -1,5 +1,5 @@
+<img width="1983" height="793" alt="e37e7457-ec51-43cb-8bb0-f6ccc71b2698" src="https://github.com/user-attachments/assets/ba439237-ef19-41f1-ba59-49ffc0c7f8e6" />
 
-<img width="1983" height="793" alt="ChatGPT Image Jun 15, 2026, 12_12_41 AM" src="https://github.com/user-attachments/assets/383e1adb-30fb-4f58-a2a2-357a84da8733" 
 
 <h1 align="center">💜 Hi, I'm Naavya Srivastava</h1>
 
@@ -114,6 +114,7 @@ Real-time air writing application using computer vision and gesture recognition.
 
 💼 **LinkedIn**
 https://www.linkedin.com/in/naavya-srivastava-661bb03ba
+
 
 ---
 
