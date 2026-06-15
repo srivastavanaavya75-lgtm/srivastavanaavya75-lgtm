@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="<img width="1983" height="793" alt="ChatGPT Image Jun 15, 2026, 12_12_41 AM" src="https://github.com/user-attachments/assets/e5a08295-074a-4332-95bc-71a6613c09be" />
-" width="100%" />
-</p>
+<img width="1983" height="793" alt="ChatGPT Image Jun 15, 2026, 12_12_41 AM" src="https://github.com/user-attachments/assets/b760b92a-912e-4a4d-ba60-a89d3b5d23ad" />
+
 
 <h1 align="center">
 💜 Naavya Srivastava
