@@ -49,6 +49,15 @@ Building intelligent solutions with Python, AI and Modern Web Technologies.
 ---
 
 # 🚀 Featured Projects
+🛡️ ConsentAI ⭐ (NEW)
+
+AI-powered identity and consent verification platform that verifies users before AI-generated content is created using face detection, liveness verification and secure verification records.
+
+🔗 Live Demo: https://consent-ai-iota.vercel.app
+
+🔗 GitHub: https://github.com/srivastavanaavya75-lgtm/consent-ai
+
+---
 
 ## 🌍 Luxora Travel
 
